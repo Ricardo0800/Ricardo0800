@@ -18,6 +18,9 @@ Currently studying at the University of Brasília (UnB) and building projects re
 
 ---
 
+# Principal Projects
+  Projeto Integrador - ##link
+
 # 🚀 Areas of Interest
 
 ## Backend Engineering
