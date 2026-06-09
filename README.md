@@ -18,8 +18,64 @@ Currently studying at the University of Brasília (UnB) and building projects re
 
 ---
 
-# Principal Projects
-  Projeto Integrador - ##link
+# 📌 Principal Projects
+
+## 1. **Bot N8N - Email Automation with Generative AI**
+*Status: Coming soon*
+
+Automated email workflow with AI-powered content generation and lead management.
+- N8N workflow automation
+- Generative AI integration
+- Lead pipeline automation
+- Real-world email delivery
+
+🔗 **Repository:** [Add link here]
+
+---
+
+## 2. **ET Education - Complete LMS Platform** 
+Integrated education platform for online courses and student management.
+- Node.js + Express backend
+- Supabase database & auth
+- REST APIs
+- Complete course management system
+- Real production deployment
+
+🔗 **Repository:** [Projeto Integrador (PI)](https://github.com/Ricardo0800/PI)
+
+---
+
+## 3. **AWS Cursinho Architecture - Infrastructure Documentation**
+Technical documentation of a scalable AWS infrastructure for the education platform.
+- Complete architecture diagrams
+- AWS service integration
+- Infrastructure best practices
+- Video walkthrough & technical slides
+
+🔗 **Repository:** [Add link here]
+
+---
+
+## 4. **CloudMine - Minecraft Server Management**
+Automated infrastructure management system integrating cloud computing with Discord automation.
+- Azure cloud infrastructure
+- Discord Bot integration
+- Infrastructure automation
+- Remote server management & monitoring
+
+🔗 **Repository:** [CloudMine](https://github.com/Ricardo0800/cloudmine)
+
+---
+
+## 5. **Java POO Training - Hotel System**
+Object-Oriented Programming fundamentals through a practical hotel management system.
+- Encapsulation, inheritance, polymorphism
+- Real-world OOP design patterns
+- Educational project
+
+🔗 **Repository:** [Atividade](https://github.com/Ricardo0800/Atividade)
+
+---
 
 # 🚀 Areas of Interest
 
@@ -73,23 +129,24 @@ Currently studying at the University of Brasília (UnB) and building projects re
 - Node.js
 - Express
 - REST APIs
+- N8N automation
 - Discord Bots
 
 ---
 
 ## Cloud & Infrastructure
 - Azure
-- AWS (currently learning)
+- AWS
 - Ubuntu Server
 - SSH
-- Docker (learning)
+- Docker
 
 ---
 
 ## Databases
 - PostgreSQL
 - SQLite
-- SQL Server (academic studies)
+- Supabase
 
 ---
 
@@ -99,47 +156,7 @@ Currently studying at the University of Brasília (UnB) and building projects re
 - VSCode
 - Linux
 - Postman
-
----
-
-# 📌 Featured Projects
-
-## CloudMine
-Automated Minecraft server management system using:
-- Azure;
-- Discord Bot integration;
-- infrastructure automation;
-- remote management;
-- monitoring;
-- Linux server administration.
-
-### Technical goals:
-- cloud orchestration;
-- backend integration;
-- DevOps;
-- infrastructure automation.
-
----
-
-## CBTC Simulation Project
-Experimental railway control simulation project focused on:
-- distributed logic;
-- critical systems;
-- entity communication;
-- automation;
-- control architecture.
-
----
-
-## Studies & Labs
-Repositories focused on:
-- algorithms;
-- data structures;
-- competitive programming;
-- backend;
-- cloud;
-- automation;
-- distributed systems.
+- N8N
 
 ---
 
@@ -161,16 +178,6 @@ Future focus on:
 
 ---
 
-# 📚 Currently
-
-- Studying for programming competitions;
-- Building personal cloud/backend projects;
-- Learning infrastructure and automation through hands-on projects;
-- Building a public technical portfolio;
-- Studying software architecture and engineering.
-
----
-
 # 🧠 Development Philosophy
 
 > "Useful, automated, and well-structured systems are more valuable than generic projects without real-world application."
@@ -179,11 +186,8 @@ Future focus on:
 
 # 🌐 Contact
 
-## GitHub
-(add link)
+**LinkedIn:** https://www.linkedin.com/in/ricardo-fgs-nonato/
 
-## LinkedIn
-(add link)
+**GitHub:** https://github.com/Ricardo0800
 
-## YouTube — Tecnolítica
-(public project building, technology, and career discussions)
+**YouTube — Tecnolítica:** (public project building, technology, and career discussions)
