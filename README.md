@@ -171,7 +171,7 @@ Building solid practical experience in:
 - software architecture.
 
 Future focus on:
-- international opportunities;
+-
 - backend/cloud engineering;
 - scalable systems;
 - building software products.
