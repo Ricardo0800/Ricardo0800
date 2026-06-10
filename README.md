@@ -52,7 +52,7 @@ Technical documentation of a scalable AWS infrastructure for the education platf
 - Infrastructure best practices
 - Video walkthrough & technical slides
 
-🔗 **Repository:** [Add link here]
+🔗 **Repository:** [AWS PRATICAL EXERCISE at IFB](https://github.com/Ricardo0800/awsFinalTest)
 
 ---
 
