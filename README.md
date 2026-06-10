@@ -1,4 +1,5 @@
-# Ricardo — Backend • Cloud • Systems Engineering
+# Ricardo 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0f0b21&height=200&section=header&text=Ricardo%20Felix&fontSize=60&fontColor=fdf6e3&fontAlignY=38&desc=Backend%20%E2%80%A2%20Cloud%20%E2%80%A2%20Automation&descSize=20&descAlignY=62&descColor=fdf6e3"/>
 
 Developer focused on:
 - backend engineering;
@@ -191,3 +192,5 @@ Future focus on:
 **GitHub:** https://github.com/Ricardo0800
 
 **YouTube — Tecnolítica:** (public project building, technology, and career discussions)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0b21,100:0f0b21&height=120&section=footer"/>
