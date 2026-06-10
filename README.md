@@ -29,7 +29,7 @@ Automated email workflow with AI-powered content generation and lead management.
 - Lead pipeline automation
 - Real-world email delivery
 
-🔗 **Repository:** [Add link here]
+🔗 **Repository:** [AI-Email-Automation-N8N-repo](https://github.com/Ricardo0800/ai-email-automation)
 
 ---
 
